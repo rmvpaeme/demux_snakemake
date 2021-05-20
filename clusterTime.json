@@ -1,0 +1,17 @@
+{
+  "fastqc" :
+  {
+    "walltime": "07:00:00",
+    "ppn": 2
+  },
+  "demultiplex" :
+  {
+    "walltime": "12:00:00",
+    "ppn": 10
+  },
+ "multiqc":
+ {
+   "walltime": "01:20:00",
+   "ppn": 3
+ }
+}
